@@ -1,0 +1,15 @@
+export const style = {
+    position: 'absolute',
+    top: '50%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    width: 420,
+    height: 400,
+    bgcolor: '#F5F5DC',
+    border: '2px solid #F0E68C',
+    boxShadow: 25,
+    borderRadius: '20px',
+    pt: 2,
+    px: 4,
+    pb: 3,
+  };
